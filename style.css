@@ -1,0 +1,111 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header h1 {
+  background-color: black;
+  color: red;
+  border-radius: 25px;
+  padding: 20px;
+}
+
+header nav {
+  background-color: red;
+  border-radius: 50px;
+}
+
+.adi {
+  padding: 13px;
+}
+
+.adi li {
+  display: inline;
+  padding: 20px;
+}
+
+.adi li a {
+  color: black;
+  text-decoration: none;
+  font-weight: 750;
+}
+
+.adi li a:hover {
+  color: gold;
+  font-weight: 800;
+}
+
+.paddy {
+  border-radius: 25px;
+  border-bottom: greenyellow 50px double;
+}
+
+.no {
+  text-transform: uppercase;
+  text-align: center;
+  margin: 20px;
+}
+
+.no ul {
+  margin: 10px;
+  padding: 20px;
+  border: firebrick 10px solid;
+  list-style: none;
+}
+
+.olive {
+  border: olive 5px dotted;
+  margin: 10px;
+  padding: 20px;
+}
+
+.green {
+  border: greenyellow 5px dotted;
+  margin: 10px;
+  padding: 20px;
+}
+.red {
+  border: red 5px dotted;
+  margin: 20px;
+  padding: 20px;
+}
+
+.black {
+  border: black 5px dotted;
+  margin: 20px;
+  padding: 20px;
+}
+
+.red_1 {
+  border: red 5px solid;
+  margin: 20px;
+  padding: 20px;
+}
+
+.black_1 {
+  border: black 5px solid;
+  margin: 20px;
+  padding: 20px;
+}
+
+.hm li {
+  display: flex;
+}
+
+.hell {
+  text-align: center;
+  border: cadetblue 5px double;
+  padding: 5px;
+  margin: 10px;
+}
+
+footer {
+  padding: 20px;
+  margin: 2px;
+  border-radius: 20px;
+  color: red;
+  text-transform: uppercase;
+  text-align: center;
+  background-color: black;
+}
